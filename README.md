@@ -1,4 +1,4 @@
-# kompendia
+# Kompendia
 CMS PWA - placeholder
 
 Full-stack angular-universal-pwa / nestjs currently under devolpment at https://kompendia.net
